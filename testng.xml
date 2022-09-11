@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+    <test name="Regression">
+   
+ 
+  <classes>
+    
+      <class name="TESTNG.Demo"/>
+      <class name="TESTNG.Demo1"/>
+      <class name="TESTNG.Demo2"/>
+      <class name="TESTNG.Login"/>
+      
+      </classes>
+</test>
+</suite>
